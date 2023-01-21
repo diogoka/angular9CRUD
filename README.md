@@ -7,7 +7,6 @@ First, run the backend:
 ```bash
 cd backend
 npm i
-then
 npm start
 ```
 

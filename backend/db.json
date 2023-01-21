@@ -1,24 +1,19 @@
 {
   "products": [
     {
-      "name": "fafa",
-      "price": "12",
-      "id": 6
+      "name": "LapTop",
+      "price": "899.10",
+      "id": 1
     },
     {
-      "name": "rarar",
-      "price": "012",
-      "id": 7
+      "name": "iPhone",
+      "price": "1399.99",
+      "id": 2
     },
     {
-      "name": "gagaga",
-      "price": "520",
-      "id": 8
-    },
-    {
-      "name": "Troço",
-      "price": "500",
-      "id": 9
+      "name": "MacBook",
+      "price": "3199.19",
+      "id": 3
     }
   ]
 }

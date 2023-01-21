@@ -76,7 +76,7 @@ registerLocaleData(localePt)
   ],
   providers: [{
     provide: LOCALE_ID,
-    useValue: 'pt-BR'
+    useValue: 'en-CA'
   }],
   bootstrap: [AppComponent]
 })

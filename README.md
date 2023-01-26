@@ -10,6 +10,8 @@ npm i
 npm start
 ```
 
+Then, run the frontend:
+
 ```bash
 cd frontend
 Second, run the frontend:

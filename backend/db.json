@@ -6,14 +6,19 @@
       "id": 1
     },
     {
-      "name": "iPhone",
-      "price": "1399.99",
-      "id": 2
+      "name": "MacBook",
+      "price": "313",
+      "id": 3
     },
     {
-      "name": "MacBook",
-      "price": "3199.19",
-      "id": 3
+      "name": "Table",
+      "price": "100",
+      "id": 4
+    },
+    {
+      "name": "iPhone",
+      "price": "1399",
+      "id": 5
     }
   ]
 }

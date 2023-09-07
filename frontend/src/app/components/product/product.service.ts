@@ -10,7 +10,9 @@ import { Product } from './product.model';
 })
 export class ProductService {
 
-  baseUrl = "http://localhost:3001/products"
+  // baseUrl = "https://angcrud.onrender.com/products"
+
+  baseUrl = import.meta.env['NG_APP_URL']
 
   constructor(
     private snackBar: MatSnackBar,
